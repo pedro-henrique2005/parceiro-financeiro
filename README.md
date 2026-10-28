@@ -1,0 +1,2 @@
+# Parceiro Financeiro - Widget de Análise
+Sistema injetável em JavaScript para o site Investidor10. Coleta dados de FIIs e Ações, aplica filtros de segurança e calcula o Preço Teto de Bazin automaticamente.
